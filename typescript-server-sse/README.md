@@ -1,5 +1,5 @@
-# mcp-practice
-
+# typescript-server-sse
+TypeScript SDK를 사용하고 SSE Transport 방식으로 구현합니다.
 
 ## 프로젝트 초기 생성
 [QuickStart](https://modelcontextprotocol.io/quickstart/server#node)
